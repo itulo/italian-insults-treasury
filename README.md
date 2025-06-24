@@ -108,6 +108,7 @@ Contribution Guidelines
 📝 How to Write a Good Contribution
 
 "baccalà","stupido","dummy/spineless person",1,3
+
 "zoccola","puttana","whore",1,4
 
 

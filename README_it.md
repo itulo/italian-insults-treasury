@@ -108,6 +108,7 @@ Linee Guida per i Contributi
 📝 Come Scrivere un Buon Contributo
 
 "baccalà","persona stupida o senza carattere","dummy/spineless person",1,3
+
 "zoccola","termine offensivo per donna","offensive term for woman",1,4
 
 
