@@ -129,13 +129,15 @@ Campi Obbligatori:
 
 Ricostruire il Database SQLite
 
-# Esporta da SQLite a CSV
-./scripts/export.sh
+- Esporta da SQLite a CSV
 
-# Ricostruisci SQLite da CSV  
-./scripts/rebuild.sh
+    ./scripts/export.sh
 
-# Il database sarà in vaffapp.db
+- Ricostruisci SQLite da CSV
+
+    ./scripts/rebuild.sh
+
+- Il database sarà in vaffapp.db
 
 
 Requisiti

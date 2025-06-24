@@ -128,13 +128,15 @@ Required Fields:
 
 Rebuild SQLite Database
 
-# Export from SQLite to CSV
-./scripts/export.sh
+- Export from SQLite to CSV
 
-# Rebuild SQLite from CSV
-./scripts/rebuild.sh
+    ./scripts/export.sh
 
-# Database will be in vaffapp.db
+- Rebuild SQLite from CSV
+
+    ./scripts/rebuild.sh
+
+- Database will be in vaffapp.db
 
 
 Requirements
