@@ -1,4 +1,4 @@
-🇮🇹 Italian Insults Treasury / Tesoro degli Insulti Italiani
+🇮🇹 Italian Insults Treasury
 
 A collaborative collection of insults and curses from Italian dialects - preserving the linguistic richness of italian folk culture.
 
